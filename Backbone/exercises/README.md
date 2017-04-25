@@ -8,7 +8,7 @@
 - [Skeleton CSS](https://github.com/dhg/Skeleton/releases/download/2.0.4/Skeleton-2.0.4.zip)
 
 #### You can find the corresponding exercises and code snippets for the lessons based on their number
-- [2.1 Underscore Practice **snippets & exercise**](https://gitlab.com/coding-dojo/Pearson-ES6-React-Angular2-Backbone/tree/master/Backbone/exercises/2_1_Underscore_Practice)
+- [2.1 Underscore Practice **snippets & exercise**](https://github.com/CodingDojoInc/Pearson-ES6-React-Angular2-Backbone/tree/master/Backbone/exercises/2_1_Underscore_Practice)
 - [2.2 Underscore Templates **snippets**](https://gitlab.com/coding-dojo/Pearson-ES6-React-Angular2-Backbone/tree/master/Backbone/exercises/2_2_Underscore_Templates)
 - [3.2 Backbone Classes **snippets**](https://gitlab.com/coding-dojo/Pearson-ES6-React-Angular2-Backbone/tree/master/Backbone/exercises/3_2_Backbone_Classes)
 - [4.1 Backbone Models **snippets & exercise**](https://gitlab.com/coding-dojo/Pearson-ES6-React-Angular2-Backbone/tree/master/Backbone/exercises/4_1_Backbone_Models)
