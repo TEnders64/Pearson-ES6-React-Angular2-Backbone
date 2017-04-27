@@ -6,4 +6,4 @@ This repository includes all supplementary material for the following Coding Doj
 | ES6 |
 | [React](React/README.md) |
 | Angular II |
-| [Backbone](Backbone/README.md) |
+| [Backbone](Backbone) |
